@@ -1,0 +1,77 @@
+#bp 33
+#bp 4
+#bp 6
+#bp 789
+#bp 45
+#bp 2
+#iae
+#ap 45
+#ape 45 7
+#ipri 45
+7 3 15
+0 0
+#at 78
+#app lklk 8
+#app lklk 456
+#at 4
+#app y8 67
+#bpp y8 67
+#app y8 67
+#at 2
+#ipro y8
+0 67 466 23
+#app lklk 7
+#at 2
+#app pr2 8
+#ipc
+lklk
+lo11
+pr2
+0 8 2 2
+pro
+proc1
+proc4
+tth
+y8
+0 67 466 21
+#bpp y8 67
+#bpp lklk 7
+error: no existe proceso
+#app tth 4
+#bpp pr2 8
+#app lo11 3
+#app proc1 3
+#app proc4 5
+#app pr2 4
+#app pro 5
+#app y8 4
+#app lklk 9
+#ipc
+lklk
+0 9 9 2
+lo11
+0 3 525 1
+pr2
+0 4 10 1
+pro
+0 5 584 6
+proc1
+0 3 3 1
+proc4
+0 5 77 1
+tth
+0 4 600 1
+y8
+0 4 466 23
+#iec
+(proc1(tth(lo11  )(proc4  ))(pr2(pro  )(lklk (y8  ))))
+#at 48
+#ipc
+lklk
+lo11
+pr2
+pro
+proc1
+proc4
+tth
+y8
